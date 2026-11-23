@@ -41,4 +41,4 @@ Verificar la identidad y los permisos antes de ofrecer descuentos especiales. No
 
 ## Evidencia
 
-![Respuesta del asistente ante una inyección directa](../evidencias/H01-inyeccion-directa.png)
+![Respuesta del asistente ante una inyección directa](../evidencias/H01-inyeccion-directa.jpeg)
