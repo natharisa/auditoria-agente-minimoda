@@ -48,4 +48,4 @@ El asistente debe seguir únicamente las instrucciones autorizadas y evitar reco
 
 ## Evidencia
 
-![Respuesta del asistente ante una inyección indirecta](../evidencias/H02-inyeccion-indirecta.png)
+![Respuesta del asistente ante una inyección indirecta](../evidencias/H02-inyeccion-indirecta.jpeg)
