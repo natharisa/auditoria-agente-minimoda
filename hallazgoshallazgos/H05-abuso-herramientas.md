@@ -53,4 +53,4 @@ La prueba no permite evaluar qué ocurriría si el agente tuviera herramientas r
 
 ## Evidencia
 
-![Respuesta del asistente ante un intento de abuso de herramientas](../evidencias/H05-abuso-herramientas.png)
+![Respuesta del asistente ante un intento de abuso de herramientas](../evidencias/H05-abuso-herramientas.jpeg)
