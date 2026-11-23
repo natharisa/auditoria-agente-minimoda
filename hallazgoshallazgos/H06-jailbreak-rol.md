@@ -45,4 +45,4 @@ No depender únicamente de instrucciones escritas en el prompt para proteger dat
 
 ## Evidencia
 
-![Respuesta del asistente ante un jailbreak por rol](../evidencias/H06-jailbreak-rol.png)
+![Respuesta del asistente ante un jailbreak por rol](../evidencias/H06-jailbreak-rol.jpeg)
