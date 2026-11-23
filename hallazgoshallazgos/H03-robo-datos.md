@@ -51,5 +51,6 @@ Esto podría facilitar una divulgación indebida si el asistente tuviera acceso 
 - Evitar exponer archivos confidenciales a herramientas sin permisos específicos.
 
 ## Evidencia
+	../evidencias/H03-robo-datos.jpeg
 
 ![Respuesta del asistente ante un intento de robo de datos](../evidencias/H03-robo-datos.png)
