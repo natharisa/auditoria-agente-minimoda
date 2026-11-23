@@ -48,6 +48,6 @@ Repetir las pruebas utilizando diferentes formulaciones para comprobar la consis
 
 ## Evidencias
 
-- [Primer intento: el asistente resistió](../evidencias/H04-fuga-prompt.png)
-- [Segundo intento: fuga parcial](../evidencias/H04-fuga-parcial.png)
+- [Primer intento: el asistente resistió](../evidencias/H04-fuga-prompt.jpeg)
+- [Segundo intento: fuga parcial](../evidencias/H04-fuga-parcial.jpeg)
 - 
